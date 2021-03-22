@@ -10,7 +10,3 @@
 - Bash
 - Russian
 - English (not well)
-
----
-
-## Write me in **[Telegram](https://t.me/sqr3m)**
